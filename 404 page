@@ -1,0 +1,39 @@
+<Doctype.html!>
+    <head>
+        <title>
+            404 page
+        </title>
+        <h1>404<br>Page not found</h1><hr>
+        
+        <p>The Peugeot 404 was well known for it reliabilty and was,as a result,often used as a Taxi cab.Taxi drivers are well known for knowing thier way around but it seems the driver of this one needs to update his A toZ and has got a bit lost. </p>
+        <p>Sadly you'll have to get out and start your journey again.Our advice?Dont leave a tip</p>
+        <p><a href="Insert url here">Go to:Home</a> </p>
+        <style>
+
+            h1{
+                color: #D8D8D8;
+                text-align: center;
+                font-size: 600%;
+                font-family:   -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif              
+
+            }
+            h2{
+                text-align: center;
+                color: #D8D8D8;
+            }
+            p{
+                color: #D8D8D8;
+            
+            }
+        </style>
+    </head>
+   
+    <body>
+        <img src="https://i.pinimg.com/736x/8d/df/2c/8ddf2cbc434668badf04e79a534ae0ff--peugeot--models.jpg"
+    </body>
+        
+
+    
+    
+
+</Doctype.html>
